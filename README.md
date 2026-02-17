@@ -1,16 +1,28 @@
-## Hi there 👋
+## 👩🏻‍💻 María  -  Web Developer in Progress  
 
-<!--
-**marternium/marternium** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hola 👋 Soy María.  
+Estoy formándome en desarrollo web y enfocándome en entender cómo funciona cada capa de una aplicación, desde lo que ocurre en el navegador hasta la lógica en el servidor y la gestión de datos.
 
-Here are some ideas to get you started:
+Me interesa escribir código claro, estructurado y mantenible, evitando soluciones innecesariamente complejas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Stack
+
+- **Frontend:** HTML5, CSS3, JavaScript  
+- **Backend:** PHP  
+- **Base de Datos:** MySQL  
+
+---
+
+### 🧠 Mentalidad técnica
+
+- Entender antes de abstraer.  
+- Priorizar claridad sobre “magia”.  
+- Resolver problemas con lógica, no con parches.  
+
+---
+
+### 🎯 Objetivo
+
+Desarrollar aplicaciones web completas, sólidas y bien estructuradas, evolucionando hacia un perfil full-stack.
